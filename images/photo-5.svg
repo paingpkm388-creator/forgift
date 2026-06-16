@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-label="Replace this placeholder with photo five">
+  <defs>
+    <linearGradient id="bg" x1="1" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#dff5ed"/>
+      <stop offset=".4" stop-color="#fffaf4"/>
+      <stop offset="1" stop-color="#ffd6df"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1125" fill="url(#bg)"/>
+  <path d="M0 220 C210 360 330 120 535 250 S770 300 900 180 V0 H0 Z" fill="#e45d78" opacity=".2"/>
+  <path d="M0 900 C190 780 330 910 480 820 S770 735 900 860 V1125 H0 Z" fill="#60bca6" opacity=".22"/>
+  <rect x="224" y="320" width="452" height="452" rx="54" fill="#fffaf4" opacity=".76"/>
+  <text x="450" y="532" text-anchor="middle" fill="#aa304d" font-family="Arial, sans-serif" font-size="42" font-weight="700">PHOTO 5</text>
+  <text x="450" y="592" text-anchor="middle" fill="#7d6872" font-family="Arial, sans-serif" font-size="28">Replace anytime</text>
+</svg>

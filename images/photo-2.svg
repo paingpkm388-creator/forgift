@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-label="Replace this placeholder with photo two">
+  <defs>
+    <linearGradient id="bg" x1="1" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#fbe0a5"/>
+      <stop offset=".45" stop-color="#ffb4c4"/>
+      <stop offset="1" stop-color="#b7eadb"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1125" fill="url(#bg)"/>
+  <circle cx="180" cy="170" r="210" fill="#fffaf4" opacity=".34"/>
+  <circle cx="720" cy="850" r="260" fill="#aa304d" opacity=".18"/>
+  <path d="M455 318c65-102 235-50 235 80 0 135-150 211-235 304-86-93-235-169-235-304 0-130 170-182 235-80z" fill="#fffaf4" opacity=".75"/>
+  <text x="450" y="542" text-anchor="middle" fill="#aa304d" font-family="Arial, sans-serif" font-size="42" font-weight="700">PHOTO 2</text>
+</svg>

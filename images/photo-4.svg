@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-label="Replace this placeholder with photo four">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#2f2630"/>
+      <stop offset=".52" stop-color="#aa304d"/>
+      <stop offset="1" stop-color="#e7b75f"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1125" fill="url(#bg)"/>
+  <g fill="#fffaf4" opacity=".62">
+    <circle cx="170" cy="210" r="8"/>
+    <circle cx="720" cy="170" r="10"/>
+    <circle cx="650" cy="360" r="6"/>
+    <circle cx="260" cy="750" r="9"/>
+    <circle cx="780" cy="830" r="7"/>
+  </g>
+  <path d="M450 382c52-82 188-40 188 64 0 108-120 169-188 243-69-74-188-135-188-243 0-104 136-146 188-64z" fill="#fffaf4" opacity=".82"/>
+  <text x="450" y="560" text-anchor="middle" fill="#aa304d" font-family="Arial, sans-serif" font-size="42" font-weight="700">PHOTO 4</text>
+</svg>
